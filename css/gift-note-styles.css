@@ -1,0 +1,26 @@
+.gift-note-field {
+    margin-bottom: 20px;
+}
+
+.gift-note-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.gift-note-textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+    font-size: 14px;
+    resize: vertical;
+}
+
+.gift-note-textarea:focus {
+    border-color: #007cba;
+    box-shadow: 0 0 5px rgba(0, 123, 186, 0.5);
+    outline: none;
+}
