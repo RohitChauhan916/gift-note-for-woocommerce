@@ -1,4 +1,4 @@
-=== Gift Note for WooCommerce ===
+=== Gift Note for WooCommerce Plugin===
 Contributors: rohit0106
 Tags: woocommerce, gift note, gift, checkout, product page
 Requires at least: 5.0
